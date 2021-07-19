@@ -47,6 +47,8 @@ dentro de la carpeta RPASQA : "NombreArchivo.bat" incluyendo las comillas.
 y selecciona el icono que desee agregar. 
 6.	Para ejecutar el robot, debe dar doble clic sobre el icono. 
 
+El archivo de excel, conf.properties, manual ICU y presentación se encuentran en la siguiente url:
 
+https://drive.google.com/drive/folders/1FylEWL-8hGBLP3oYXoM8_T-TUBBi5Lby?usp=sharing
 
 
