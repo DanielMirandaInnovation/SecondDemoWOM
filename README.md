@@ -37,7 +37,8 @@ Adicionalmente crear una carpeta llamada “Evidences”
 Ejecución del robot y evidencias
 
 1.	En la carpeta “Evidences” se almacenará el screenshot con la información del motivo de rechazo por su respectivo id, hora y fecha en que fue tomado el screenshot.
-2.	Asegurar que en la raíz de la carpeta RPASQA ubicada en el disco local C, se encuentre el jar de ejecución “KrakenSqa.jar”. 
+2.	Asegurar que en la raíz de la carpeta RPASQA ubicada en el disco local C, se encuentre el jar de ejecución “KrakenSqa.jar”. Si no es así clone el proyecto y
+desde eclipse exporte el proyecto como un .jar
 3.	Abrir un bloc de notas y escribir la siguiente línea: java -jar "nombreArchivo.jar". El nombre del archivo debe coincidir con el jar almacenado en la carpeta RPASQA. 
 Por ejemplo, si el nombre del archivo se conserva como lo entrega SQA, la línea debe ser “java -jar KrakenSqa.jar”. Guardar el bloc de notas de la siguiente manera 
 dentro de la carpeta RPASQA : "NombreArchivo.bat" incluyendo las comillas.
